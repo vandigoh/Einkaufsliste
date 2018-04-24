@@ -1,5 +1,6 @@
-Erster Test mit git! "Cleia"
+Einkaufsliste:
 
-Äderung im Master-branch
-Änderung auf der Datei im cleia-zweig.
-
+Milch
+Obst
+Gemüse
+Fleisch
